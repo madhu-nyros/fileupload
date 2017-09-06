@@ -1,0 +1,33 @@
+#img
+{
+	border:none;
+    width:200px;
+    height:200px;
+    margin-top: 20px;
+    margin-left: 600px;
+    background-color: lightgreen;
+    border:1px;
+}
+#display
+{
+    margin-top: 60px !important;
+}
+#images
+{
+    list-style-type: none;
+    display: inline-block;
+}
+#pagination
+{
+    display: inline-block; 
+    list-style-type: none;
+    float:left;
+    margin-left: 10px;
+    padding-right: 5px;
+    border:1px solid;
+    border-radius:2em;
+}
+#pagination a
+{
+    text-decoration: none;
+}
